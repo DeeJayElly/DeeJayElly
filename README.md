@@ -2,7 +2,7 @@
 
 **Staff Engineer · Tech Lead & AI Product Architect · Senior Full-Stack Engineer**
 
-Belgrade, Serbia · remote
+Belgrade, Serbia · remote · 17+ years in software
 
 I build payments, custody and Web3 platforms end to end, from smart contracts and backend services to the product UI, and I lead the teams that ship them. I also design AI-assisted engineering workflows with Claude Code.
 
@@ -18,6 +18,9 @@ I build payments, custody and Web3 platforms end to end, from smart contracts an
 - **P2P.org**, Tech Lead (2024–2025). Web3 staking.
   - Led a team of 6 engineers.
   - Built Solana and Ethereum wallet integrations across Polygon, Solana and Ethereum.
+- **Grizzly Finance**, Tech Lead (2023). DeFi protocol.
+  - Led a team of 5 developers.
+  - Built mobile wallet features in React Native and a smart contract, across Ethereum, BSC and Optimism.
 - **Uphold**, Senior Web3 Full-Stack Developer (2022–2024). Exchange platform.
   - Built Web3 wallet features with DeFi integrations.
   - Integrated network assets across more than 20 Layer 2 chains.
