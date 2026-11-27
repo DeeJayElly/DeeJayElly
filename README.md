@@ -2,7 +2,7 @@
 
 **Staff Engineer · Tech Lead & AI Product Architect · Senior Full-Stack Engineer**
 
-Belgrade, Serbia · remote · 17+ years in software
+Belgrade, Serbia · remote · 18+ years in software
 
 I build payments, custody and Web3 platforms end to end, from smart contracts and backend services to the product UI, and I lead the teams that ship them. I also design AI-assisted engineering workflows with Claude Code.
 
